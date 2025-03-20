@@ -83,8 +83,8 @@ Simply open the `index.html` file in your browser to explore Appify.
 🌐 **Support for Multiple Frameworks**  
 - Extending compatibility to support frameworks like **React**, **Vue**, and **Angular** for future extensibility.  
 
-🛠️ **Backend Integration with Node.js**  
-- A **Node.js** backend is in the pipeline to manage API requests, user authentication, and enable more advanced features, ensuring seamless backend functionality.  
+🛠️ **Backend Integration with Spring Boot (Work in Progress)**  
+- In the next phase, I plan to integrate a Spring Boot backend to add API functionality, enabling dynamic content and data management. This enhancement will allow Appify to dynamically fetch and manage data, ensuring real-time updates and improved scalability.
 
 ⚡ **Type Safety with TypeScript**  
 - Migrating the project to **TypeScript** is also a work in progress. This will add **type safety**, improve **code maintainability**, and catch potential errors during development, making the application more robust and scalable.  
