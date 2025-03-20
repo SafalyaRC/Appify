@@ -76,7 +76,11 @@ Simply open the `index.html` file in your browser to explore Appify.
 
 💡 **Backend Integration with Node.js (Work in Progress)**  
 - In the next phase, I plan to integrate a **Node.js backend** to add API functionality, enabling dynamic content and data management.  
-- This enhancement will allow Appify to dynamically fetch and manage data, ensuring real-time updates and improved scalability.  
+- This enhancement will allow Appify to dynamically fetch and manage data, ensuring real-time updates and improved scalability.
+
+-⚡ **Type Safety with TypeScript**
+- Migrating the project to TypeScript is also a work in progress. This will add type safety, improve code maintainability, and catch potential errors during 
+  development, making the application more robust and scalable.
 
 📦 **Electron Support for Desktop Application Conversion**  
 - Implementing **Electron.js** to package the application as a fully functional desktop application.  
