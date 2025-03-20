@@ -1,5 +1,7 @@
 # 🚀 Appify
 
+[🌐 **Live Demo:**](https://appify-project.netlify.app/) – Visit the deployed version of **Appify** to explore the seamless web-to-desktop conversion experience.
+
 Appify is a web application that seamlessly converts web apps into fully functional desktop applications. Designed with a focus on performance, scalability, and user experience, Appify ensures that web applications behave like native desktop apps without compromising on functionality.  
 
 > **Note:** Appify draws inspiration from the ToDesktop application but has been developed from scratch, incorporating a more robust, responsive, and dynamic approach.  
@@ -72,22 +74,26 @@ Simply open the `index.html` file in your browser to explore Appify.
 
 ---
 
-## 🧩 Future Enhancements
-
-💡 **Backend Integration with Node.js (Work in Progress)**  
-- In the next phase, I plan to integrate a **Node.js backend** to add API functionality, enabling dynamic content and data management.  
-- This enhancement will allow Appify to dynamically fetch and manage data, ensuring real-time updates and improved scalability.
-
--⚡ **Type Safety with TypeScript**
-- Migrating the project to TypeScript is also a work in progress. This will add type safety, improve code maintainability, and catch potential errors during 
-  development, making the application more robust and scalable.
+## 🚀 Future Prospects
 
 📦 **Electron Support for Desktop Application Conversion**  
 - Implementing **Electron.js** to package the application as a fully functional desktop application.  
 - Ensuring seamless cross-platform compatibility for both Windows and macOS.  
 
 🌐 **Support for Multiple Frameworks**  
-- Extending compatibility to support frameworks like React, Vue, and Angular for future extensibility.  
+- Extending compatibility to support frameworks like **React**, **Vue**, and **Angular** for future extensibility.  
+
+🛠️ **Backend Integration with Node.js**  
+- A **Node.js** backend is in the pipeline to manage API requests, user authentication, and enable more advanced features, ensuring seamless backend functionality.  
+
+⚡ **Type Safety with TypeScript**  
+- Migrating the project to **TypeScript** is also a work in progress. This will add **type safety**, improve **code maintainability**, and catch potential errors during development, making the application more robust and scalable.  
+
+🔔 **Enhanced Desktop Features**  
+- Future versions will include advanced desktop-level functionalities like system tray integration, auto-updates, and native notifications to create a more seamless user experience.  
+
+🔒 **User Authentication & Security**  
+- Implementing secure user authentication and role-based access control to protect sensitive data and enhance overall security.  
 
 ---
 
@@ -99,3 +105,5 @@ Contributions are always welcome! Feel free to fork this repository, open issues
 ## 📧 Contact
 For any queries, suggestions, or collaborations, feel free to connect via:  
 📩 **safalyaroy9463@gmail.com**  
+
+---
